@@ -9,7 +9,7 @@
   "routes": [
       {
           "src": "(.*)",
-          "dest": "name_card_server.py"
+          "dest": "server.py"
       }
   ]
 }
